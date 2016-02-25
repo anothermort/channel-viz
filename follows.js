@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= '', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= 'Tvm9M8WscU0XTOElLnOcFz8suhgzNB7fkgNtTaTyxYQGmsjT', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [495889058], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Pizza Oven and Ambient Temperatures', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
