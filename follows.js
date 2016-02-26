@@ -14,7 +14,7 @@
 
 	var defaultKey		= 'Tvm9M8WscU0XTOElLnOcFz8suhgzNB7fkgNtTaTyxYQGmsjT', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1806745178], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'Ambient Temperature, Humidity and Pressure - North Essex, England'  // Replaces Xively logo in the header
+		applicationName	= 'Ambient Temperature, Humidity and Pressure - Essex, England'  // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
